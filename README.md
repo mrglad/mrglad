@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mrglad
+- 👀 I’m interested in coding and gaming
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me mail: Glad@mrglad.tv - twitter: @TheMrGlad - discord: MrGlad#9653
